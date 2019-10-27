@@ -8,6 +8,7 @@ import java.util.Scanner;
 public class Test {
 
     public static void main(String[] args) {
+        //test
         SalleService ss = new SalleService();
 
         ss.create(new Salle("A", "Salle 1"));
